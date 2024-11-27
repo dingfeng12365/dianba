@@ -1,0 +1,2 @@
+dianba/* filter=lfs diff=lfs merge=lfs -text
+dianba-web/* filter=lfs diff=lfs merge=lfs -text
